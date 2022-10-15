@@ -1,0 +1,5 @@
+print("Let's generate a brand name for you :D")
+first= input("What is your birthplace: \n")
+second= input("What is your favourite color: \n")
+combine= first+ " " + second
+print("Your next brandname should be: " +combine)
